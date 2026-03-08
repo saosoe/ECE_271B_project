@@ -1,3 +1,4 @@
+# VIF check for Detecting multicollinearity among feature variables, and find the best three PPG features with minimum degree of collinearity
 import pandas as pd
 import itertools
 import statsmodels.api as sm
