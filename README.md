@@ -6,4 +6,4 @@ The procedure of this project is shown in the following figure:
 
 The original dataset CAS-BP can be reached at https://github.com/zdzdliu/CAS-BP 
 
-In this work, we only present the precessed PPG data as example
+In this work, we present the precessed PPG data as example
